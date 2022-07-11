@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alvarolordelo
-- 👀 I’m interested in ... AI, php non-asyncronous, node.js, java and everything that's fun!
+- 👀 I’m interested in ... AI, php non-asyncronous, node.js, javascript,react, java and everything that's fun!
 - 🌱 I’m currently learning ... google's flutter...next.js
 - 💞️ I’m looking to collaborate on ... invoice or payment system.
 - 📫 How to reach me ...by mail? whatsapp? signal? telegram? ..all those!
