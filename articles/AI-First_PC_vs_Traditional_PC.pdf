@@ -1,0 +1,221 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 5 /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1179 >>
+stream
+0.050 0.107 0.177 rg 0 0 595 842 re f
+0.17 0.73 0.76 rg 48 702 70 6 re f
+BT /F2 10 Tf 0.70 0.83 0.87 rg 1 0 0 1 49 757 Tm (TECHNOLOGY / OPINION) Tj ET
+BT /F1 9.6 Tf 0.70 0.83 0.87 rg 1 0 0 1 450 757 Tm (NOVEMBER 2026) Tj ET
+BT /F2 47 Tf 1 1 1 rg 1 0 0 1 48 613 Tm (AI-FIRST PC) Tj ET
+BT /F1 33 Tf 0.89 0.94 0.96 rg 1 0 0 1 49 563 Tm (vs. Traditional PC) Tj ET
+0.22 0.43 0.48 RG 1.3 w 49 524 m 546 524 l S
+BT /F1 18 Tf 0.78 0.87 0.90 rg 1 0 0 1 49 480 Tm (The Next Evolution of Personal Computing) Tj ET
+BT /F2 17 Tf 1 1 1 rg 1 0 0 1 48 364 Tm (The future of computing isn't a PC that runs AI.) Tj ET
+BT /F2 18 Tf 1 1 1 rg 1 0 0 1 48 338 Tm (It's a PC that AI runs.) Tj ET
+0.10 0.20 0.28 rg 48 176 240 77 re f
+0.08 0.37 0.39 rg 297 176 250 77 re f
+BT /F2 12 Tf 0.95 0.98 1 rg 1 0 0 1 61 224 Tm (TRADITIONAL PC) Tj ET
+BT /F1 10.4 Tf 0.81 0.87 0.89 rg 1 0 0 1 61 196 Tm (Human operates applications) Tj ET
+BT /F2 12 Tf 0.95 0.98 1 rg 1 0 0 1 310 224 Tm (AI-FIRST PC) Tj ET
+BT /F1 10.4 Tf 0.81 0.92 0.93 rg 1 0 0 1 310 196 Tm (Human defines the objective) Tj ET
+BT /F1 8.8 Tf 0.70 0.82 0.84 rg 1 0 0 1 49 67 Tm (CPU + GPU  /  UNIFIED MEMORY  /  LOCAL AI  /  AGENTIC COMPUTING) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3097 >>
+stream
+0.985 0.989 0.994 rg 0 0 595 842 re f
+0.14 0.58 0.67 rg 0 835 595 7 re f
+BT /F2 10.7 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 795 Tm (AI-FIRST PC) Tj ET
+BT /F1 8.5 Tf 0.37 0.44 0.50 rg 1 0 0 1 239 795 Tm (THE NEXT EVOLUTION OF PERSONAL COMPUTING) Tj ET
+0.84 0.87 0.89 RG 0.7 w 49 781 m 546 781 l S
+0.84 0.87 0.89 RG 0.7 w 49 48 m 546 48 l S
+BT /F1 8 Tf 0.40 0.47 0.52 rg 1 0 0 1 49 32 Tm (TECHNOLOGY / OPINION) Tj ET
+BT /F2 9 Tf 0.40 0.47 0.52 rg 1 0 0 1 525 32 Tm (01) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 739 Tm (THE ARGUMENT) Tj ET
+BT /F2 11.4 Tf 0.22 0.43 0.49 rg 1 0 0 1 49 709 Tm (A different kind of personal computer) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 686 Tm (For decades, the personal computer has been organized around one assumption: the CPU is the center) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 670 Tm (of the system. Memory holds the data; the GPU assists with graphics and parallel workloads. Artificial) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 654 Tm (intelligence is forcing us to reconsider that arrangement.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 626 Tm (The next PC may be defined less by how fast its CPU runs and more by the intelligence it can execute) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 610 Tm (locally: model size, available memory, memory bandwidth, usable context, response latency, and the) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 594 Tm (ability of an AI agent to complete work.) Tj ET
+BT /F1 11.8 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 560 Tm (The future of computing isn't a PC that runs AI. It's a PC that AI runs.) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 520 Tm (01 / The bottleneck in the traditional design) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 490 Tm (Consider a practical example. An NVIDIA GeForce RTX 5060 Ti has approximately 448 GB/s of local) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 474 Tm (graphics-memory bandwidth. In an older system operating the card over PCIe 3.0 x8, the theoretical) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 458 Tm (one-direction transfer rate between the GPU and the rest of the machine is only about 7.9 GB/s.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 430 Tm (Those numbers should not be confused with application speed: a GPU does not need to send every) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 414 Tm (operation across PCIe. When model weights and the key-value cache remain in VRAM, most computation) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 398 Tm (can proceed locally. The bottleneck becomes painful when a model or its working memory exceeds) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 382 Tm (available VRAM and data must move repeatedly between GPU and system memory.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 354 Tm (The lesson is not simply that faster GPUs are needed. We also need more memory close to the compute) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 338 Tm (units, faster access to that memory, and software that avoids unnecessary transfers.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4079 >>
+stream
+0.985 0.989 0.994 rg 0 0 595 842 re f
+0.14 0.58 0.67 rg 0 835 595 7 re f
+BT /F2 10.7 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 795 Tm (AI-FIRST PC) Tj ET
+BT /F1 8.5 Tf 0.37 0.44 0.50 rg 1 0 0 1 239 795 Tm (THE NEXT EVOLUTION OF PERSONAL COMPUTING) Tj ET
+0.84 0.87 0.89 RG 0.7 w 49 781 m 546 781 l S
+0.84 0.87 0.89 RG 0.7 w 49 48 m 546 48 l S
+BT /F1 8 Tf 0.40 0.47 0.52 rg 1 0 0 1 49 32 Tm (TECHNOLOGY / OPINION) Tj ET
+BT /F2 9 Tf 0.40 0.47 0.52 rg 1 0 0 1 525 32 Tm (02) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 739 Tm (02 / What if we reverse the design?) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 709 Tm (Imagine an architecture designed around a powerful GPU, with efficient CPU cores integrated to run) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 693 Tm (Windows or Linux, manage storage and networking, execute conventional applications, and coordinate) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 677 Tm (AI agents. Both types of cores would share a large pool of high-bandwidth memory.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 649 Tm (Call this concept a CGPU: a GPU-centered computing platform with general-purpose CPU capabilities) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 633 Tm (built into the same tightly integrated system. The term here describes a design vision, not a specific) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 617 Tm (commercial product or a claim of invention.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 589 Tm (The goal would not be to eliminate CPUs. General-purpose operating systems still need strong) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 573 Tm (sequential performance, responsive interrupt handling, device management, and security boundaries.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 557 Tm (Instead, it would make the AI engine a first-class part of the computer rather than an external) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 541 Tm (accelerator constrained by a separate pool of memory.) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 501 Tm (03 / AMD already has many of the ingredients) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 471 Tm (AMD has an unusual strategic position: it designs x86 processors, GPUs, interconnect technologies, and) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 455 Tm (platforms that bring the two together. Its Instinct MI300A combines Zen CPU cores and CDNA GPU) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 439 Tm (compute with 128 GB of shared HBM3 memory, delivering up to 5.3 TB/s of theoretical memory) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 423 Tm (bandwidth. It is a high-performance computing product, not a consumer desktop, but it demonstrates) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 407 Tm (the architectural direction.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 379 Tm (Closer to personal computing, the Ryzen AI Max+ 395 combines Zen 5 CPU cores with integrated) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 363 Tm (Radeon graphics and supports systems with up to 128 GB of memory and up to 256 GB/s of theoretical) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 347 Tm (memory bandwidth. Meanwhile, NVIDIA's DGX Spark demonstrates a compact AI-focused system with) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 331 Tm (128 GB of unified memory.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 303 Tm (The components of an AI-first architecture are not science fiction. The real challenge is turning them) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 287 Tm (into an accessible, reliable and developer-friendly PC.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 259 Tm (AMD also faces a software challenge: NVIDIA's CUDA ecosystem is deeply embedded in the AI stack.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 243 Tm (AMD's ROCm is improving, but hardware capabilities alone do not guarantee that models, drivers,) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 227 Tm (libraries and agent frameworks will work seamlessly.) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 4137 >>
+stream
+0.985 0.989 0.994 rg 0 0 595 842 re f
+0.14 0.58 0.67 rg 0 835 595 7 re f
+BT /F2 10.7 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 795 Tm (AI-FIRST PC) Tj ET
+BT /F1 8.5 Tf 0.37 0.44 0.50 rg 1 0 0 1 239 795 Tm (THE NEXT EVOLUTION OF PERSONAL COMPUTING) Tj ET
+0.84 0.87 0.89 RG 0.7 w 49 781 m 546 781 l S
+0.84 0.87 0.89 RG 0.7 w 49 48 m 546 48 l S
+BT /F1 8 Tf 0.40 0.47 0.52 rg 1 0 0 1 49 32 Tm (TECHNOLOGY / OPINION) Tj ET
+BT /F2 9 Tf 0.40 0.47 0.52 rg 1 0 0 1 525 32 Tm (03) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 739 Tm (04 / An AI PC is not necessarily an AI-first PC) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 709 Tm (Many machines are marketed as AI PCs because they include an NPU or accelerate a handful of) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 693 Tm (intelligent features. That is useful, but it is not the full transformation.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 665 Tm (In an AI-first PC, the operating experience itself changes. The user boots Windows or Linux, starts a) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 649 Tm (local runtime such as Ollama, loads a model, and gives an agent access to approved tools. Instead of) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 633 Tm (learning every application and performing every click, the user states an objective.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 605 Tm (The agent can then inspect information, open programs, draft documents, write code, coordinate) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 589 Tm (workflows, or search an offline library. The human remains responsible for goals and authorization,) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 573 Tm (particularly for irreversible operations, private data and system-level changes.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 545 Tm (Traditional PC: the user operates applications to achieve a goal. AI-first PC: the user defines the) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 529 Tm (goal; an agent operates applications under supervision. Core requirement: local capability, clear) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 513 Tm (permissions, auditable actions, and a way to stop or reverse mistakes.) Tj ET
+BT /F1 11.8 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 485 Tm (The interface of the next PC may be less about where to click and more about what to) Tj ET
+BT /F1 11.8 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 469 Tm (accomplish.) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 429 Tm (05 / A new scoreboard for personal computing) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 399 Tm (The specifications that matter will expand. CPU clock speed and core count will not disappear, but they) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 383 Tm (will be joined by metrics that describe how well a system actually runs useful AI workloads.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 355 Tm (Model capacity: which models fit in memory without slow offloading? Memory performance: how much) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 339 Tm (bandwidth is available to the processor running inference? Responsiveness: what are the time to first) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 323 Tm (token and sustained tokens per second?) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 295 Tm (Working context: how much information can the model process accurately, not merely accept? Agent) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 279 Tm (reliability: can it use tools, recover from errors and request approval when needed? Efficiency and) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 263 Tm (privacy: can it work locally without sending sensitive information to remote servers?) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 235 Tm (A large advertised context window does not guarantee strong reasoning. Nor does a high theoretical) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 219 Tm (compute score guarantee good real-world inference. Memory architecture, optimized software and) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 203 Tm (careful evaluation matter together.) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3805 >>
+stream
+0.985 0.989 0.994 rg 0 0 595 842 re f
+0.14 0.58 0.67 rg 0 835 595 7 re f
+BT /F2 10.7 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 795 Tm (AI-FIRST PC) Tj ET
+BT /F1 8.5 Tf 0.37 0.44 0.50 rg 1 0 0 1 239 795 Tm (THE NEXT EVOLUTION OF PERSONAL COMPUTING) Tj ET
+0.84 0.87 0.89 RG 0.7 w 49 781 m 546 781 l S
+0.84 0.87 0.89 RG 0.7 w 49 48 m 546 48 l S
+BT /F1 8 Tf 0.40 0.47 0.52 rg 1 0 0 1 49 32 Tm (TECHNOLOGY / OPINION) Tj ET
+BT /F2 9 Tf 0.40 0.47 0.52 rg 1 0 0 1 525 32 Tm (04) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 739 Tm (06 / The transition has already begun) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 709 Tm (An AI-first PC need not replace the familiar desktop overnight. Keyboard, mouse, browser, terminal) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 693 Tm (and professional applications will remain useful. The shift is in the relationship between person and) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 677 Tm (machine: from issuing low-level instructions to supervising higher-level work.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 649 Tm (A practical system still needs a competent CPU, secure operating-system foundations and an effective) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 633 Tm (GPU. It also needs abundant memory, strong support for local inference, and agents that can act) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 617 Tm (responsibly rather than merely answer questions.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 589 Tm (This is where the opportunity lies for companies able to combine hardware and software into one) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 573 Tm (coherent experience. AMD has much of the technology. NVIDIA has a mature AI software ecosystem.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 557 Tm (Others are advancing unified-memory designs. The eventual winner may be the one that makes the) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 541 Tm (complete experience simplest and most dependable.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 513 Tm (The PC is not disappearing. The assumption that the human must operate every part of it may be.) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 485 Tm (The future of personal computing is not just a faster machine with an AI feature added on top. It is a) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 469 Tm (computer designed from the ground up to understand objectives, use tools, and work alongside its) Tj ET
+BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 453 Tm (owner - locally, efficiently and under human control.) Tj ET
+BT /F2 16 Tf 0.06 0.32 0.43 rg 1 0 0 1 49 413 Tm (TECHNICAL REFERENCES) Tj ET
+BT /F1 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 383 Tm (Specifications and product information from AMD and NVIDIA. Numerical figures are theoretical;) Tj ET
+BT /F1 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 367 Tm (throughput depends on configuration and workload.) Tj ET
+BT /F2 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 339 Tm (AMD Instinct MI300A) Tj ET
+BT /F1 8.7 Tf 0.12 0.42 0.50 rg 1 0 0 1 49 323 Tm (https://www.amd.com/en/products/accelerators/instinct/mi300/mi300a.html) Tj ET
+BT /F2 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 301 Tm (AMD Ryzen AI Max+ 395) Tj ET
+BT /F1 8.7 Tf 0.12 0.42 0.50 rg 1 0 0 1 49 285 Tm (https://www.amd.com/en/products/processors/desktops/ryzen/ryzen-ai-halo/ryzen-ai-max-plus-395.html) Tj ET
+BT /F2 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 263 Tm (NVIDIA DGX Spark hardware) Tj ET
+BT /F1 8.7 Tf 0.12 0.42 0.50 rg 1 0 0 1 49 247 Tm (https://docs.nvidia.com/dgx/dgx-spark/hardware.html) Tj ET
+BT /F2 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 225 Tm (NVIDIA GeForce RTX 5060 family) Tj ET
+BT /F1 8.7 Tf 0.12 0.42 0.50 rg 1 0 0 1 49 209 Tm (https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/) Tj ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000141 00000 n 
+0000000211 00000 n 
+0000000286 00000 n 
+0000000422 00000 n 
+0000001652 00000 n 
+0000001788 00000 n 
+0000004936 00000 n 
+0000005073 00000 n 
+0000009204 00000 n 
+0000009342 00000 n 
+0000013531 00000 n 
+0000013669 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+17526
+%%EOF
