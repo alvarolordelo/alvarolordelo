@@ -6,16 +6,16 @@ endobj
 << /Type /Pages /Count 5 /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] >>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 1179 >>
+<< /Length 1332 >>
 stream
 0.050 0.107 0.177 rg 0 0 595 842 re f
 0.17 0.73 0.76 rg 48 702 70 6 re f
@@ -34,13 +34,15 @@ BT /F1 10.4 Tf 0.81 0.87 0.89 rg 1 0 0 1 61 196 Tm (Human operates applications)
 BT /F2 12 Tf 0.95 0.98 1 rg 1 0 0 1 310 224 Tm (AI-FIRST PC) Tj ET
 BT /F1 10.4 Tf 0.81 0.92 0.93 rg 1 0 0 1 310 196 Tm (Human defines the objective) Tj ET
 BT /F1 8.8 Tf 0.70 0.82 0.84 rg 1 0 0 1 49 67 Tm (CPU + GPU  /  UNIFIED MEMORY  /  LOCAL AI  /  AGENTIC COMPUTING) Tj ET
+BT /F1 10 Tf 0.63 0.80 0.86 rg 1 0 0 1 49 139 Tm (AUTHOR) Tj ET
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 49 116 Tm (\301lvaro Augusto Pereira Lordelo Junior) Tj ET
 endstream
 endobj
 7 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 3097 >>
+<< /Length 3199 >>
 stream
 0.985 0.989 0.994 rg 0 0 595 842 re f
 0.14 0.58 0.67 rg 0 835 595 7 re f
@@ -69,13 +71,14 @@ BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 398 Tm (can proceed locally. The bot
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 382 Tm (available VRAM and data must move repeatedly between GPU and system memory.) Tj ET
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 354 Tm (The lesson is not simply that faster GPUs are needed. We also need more memory close to the compute) Tj ET
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 338 Tm (units, faster access to that memory, and software that avoids unnecessary transfers.) Tj ET
+BT /F1 7.7 Tf 0.37 0.45 0.53 rg 1 0 0 1 220 32 Tm (By \301lvaro Augusto Pereira Lordelo Junior) Tj ET
 endstream
 endobj
 9 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 4079 >>
+<< /Length 4181 >>
 stream
 0.985 0.989 0.994 rg 0 0 595 842 re f
 0.14 0.58 0.67 rg 0 835 595 7 re f
@@ -111,13 +114,14 @@ BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 287 Tm (into an accessible, reliable
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 259 Tm (AMD also faces a software challenge: NVIDIA's CUDA ecosystem is deeply embedded in the AI stack.) Tj ET
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 243 Tm (AMD's ROCm is improving, but hardware capabilities alone do not guarantee that models, drivers,) Tj ET
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 227 Tm (libraries and agent frameworks will work seamlessly.) Tj ET
+BT /F1 7.7 Tf 0.37 0.45 0.53 rg 1 0 0 1 220 32 Tm (By \301lvaro Augusto Pereira Lordelo Junior) Tj ET
 endstream
 endobj
 11 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
 endobj
 12 0 obj
-<< /Length 4137 >>
+<< /Length 4239 >>
 stream
 0.985 0.989 0.994 rg 0 0 595 842 re f
 0.14 0.58 0.67 rg 0 835 595 7 re f
@@ -153,13 +157,14 @@ BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 263 Tm (privacy: can it work locally
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 235 Tm (A large advertised context window does not guarantee strong reasoning. Nor does a high theoretical) Tj ET
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 219 Tm (compute score guarantee good real-world inference. Memory architecture, optimized software and) Tj ET
 BT /F1 10.2 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 203 Tm (careful evaluation matter together.) Tj ET
+BT /F1 7.7 Tf 0.37 0.45 0.53 rg 1 0 0 1 220 32 Tm (By \301lvaro Augusto Pereira Lordelo Junior) Tj ET
 endstream
 endobj
 13 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
 endobj
 14 0 obj
-<< /Length 3805 >>
+<< /Length 3907 >>
 stream
 0.985 0.989 0.994 rg 0 0 595 842 re f
 0.14 0.58 0.67 rg 0 835 595 7 re f
@@ -195,27 +200,32 @@ BT /F2 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 263 Tm (NVIDIA DGX Spark hardware) Tj
 BT /F1 8.7 Tf 0.12 0.42 0.50 rg 1 0 0 1 49 247 Tm (https://docs.nvidia.com/dgx/dgx-spark/hardware.html) Tj ET
 BT /F2 9.6 Tf 0.12 0.18 0.24 rg 1 0 0 1 49 225 Tm (NVIDIA GeForce RTX 5060 family) Tj ET
 BT /F1 8.7 Tf 0.12 0.42 0.50 rg 1 0 0 1 49 209 Tm (https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/) Tj ET
+BT /F1 7.7 Tf 0.37 0.45 0.53 rg 1 0 0 1 220 32 Tm (By \301lvaro Augusto Pereira Lordelo Junior) Tj ET
 endstream
 endobj
+15 0 obj
+<< /Author <FEFF00C1006C007600610072006F0020004100750067007500730074006F002000500065007200650069007200610020004C006F007200640065006C006F0020004A0075006E0069006F0072> /Title (AI-First PC vs. Traditional PC) /Subject (The Next Evolution of Personal Computing) /Creator (OpenAI ChatGPT) >>
+endobj
 xref
-0 15
+0 16
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
 0000000141 00000 n 
-0000000211 00000 n 
-0000000286 00000 n 
-0000000422 00000 n 
-0000001652 00000 n 
-0000001788 00000 n 
-0000004936 00000 n 
-0000005073 00000 n 
-0000009204 00000 n 
-0000009342 00000 n 
-0000013531 00000 n 
-0000013669 00000 n 
+0000000238 00000 n 
+0000000340 00000 n 
+0000000476 00000 n 
+0000001859 00000 n 
+0000001995 00000 n 
+0000005245 00000 n 
+0000005382 00000 n 
+0000009615 00000 n 
+0000009753 00000 n 
+0000014044 00000 n 
+0000014182 00000 n 
+0000018141 00000 n 
 trailer
-<< /Size 15 /Root 1 0 R >>
+<< /Size 16 /Root 1 0 R /Info 15 0 R >>
 startxref
-17526
+18444
 %%EOF

@@ -1,5 +1,7 @@
 # AI-First PC vs. Traditional PC
 
+**By Álvaro Augusto Pereira Lordelo Junior**
+
 The Next Evolution of Personal Computing
 
 > The future of computing isn't a PC that runs AI. It's a PC that AI runs.
